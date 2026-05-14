@@ -243,7 +243,7 @@ AI-powered waste classification system — computer vision pipeline for automate
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=santanu949&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/santanu949)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=santanu949&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=-C,-B)](https://github.com/santanu949)
 
 </div>
 
@@ -255,8 +255,8 @@ AI-powered waste classification system — computer vision pipeline for automate
 
 ## 🧪 Experience & Credentials
 
-| | Role | What I Built | Period |
-|---|---|---|---|
+| &nbsp; | Role | What I Built | Period |
+|:---:|---|---|:---:|
 | 🏢 | **Ties — Full-Stack Engineer** | Production verification & recruitment platform (React · Node.js · Firebase). Deployed, maintained, serving real users. | 2025 — Present |
 | 🤖 | **Future Interns — ML Intern** | Sales forecasting with Prophet on retail data. Churn prediction on telecom datasets using SMOTE + ensemble models (Logistic Regression, Random Forest, XGBoost). | 2025 |
 | 💻 | **CodeAlpha — Developer Intern** | Neural machine translation system using sequence-to-sequence deep learning pipelines. | 2024 |
