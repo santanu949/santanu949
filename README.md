@@ -175,8 +175,8 @@ AI-powered waste classification and resource sorting system — computer vision 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=santanu949&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanu949&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=santanu949&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santanu949&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
 
 <br/>
 
