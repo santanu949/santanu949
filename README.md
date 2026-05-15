@@ -181,11 +181,11 @@ Real-time urban monitoring system covering **25+ Mumbai neighborhoods** — sate
 <div align="center">
 
 <a href="https://github.com/santanu949">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=santanu949&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=santanu949&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&card_width=400&cache_seconds=1800" alt="GitHub Stats" height="180"/>
 </a>
 &nbsp;
 <a href="https://github.com/santanu949">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=santanu949&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=santanu949&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320&cache_seconds=1800" alt="Top Languages" height="180"/>
 </a>
 
 <br/><br/>
