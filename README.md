@@ -28,24 +28,19 @@
 
 ```yaml
 name: Santanu Samanta
-role: AI/ML Engineer · Full-Stack Developer · Cloud Explorer
+role: AI/ML Engineer · Full-Stack Developer
 education: B.Tech CSE — Amity University Mumbai (2023–2027)
-location: Panvel, Maharashtra, India
 
-currently_building: >
-  production-grade verification & recruitment platform at Ties
-  (React · Node.js · Firebase · Vite — deployed and serving real users)
+currently_building: production verification platform at Ties (React · Node.js · Firebase)
 
-focus_areas:
-  - end-to-end ML pipelines (TensorFlow · PyTorch · scikit-learn → Flask APIs)
-  - full-stack production systems (React · Next.js · Node.js · Express → MongoDB / Firebase)
-  - RAG-based intelligence platforms (local embeddings · vector search · LLM orchestration)
-  - autonomous monitoring & decision engines (WebSockets · FastAPI · real-time pipelines)
-  - smart contract security tooling (Groq · Ollama · static analysis → automated audits)
+focus:
+  - ML pipelines & RAG systems (TensorFlow · PyTorch · local embeddings)
+  - full-stack production apps (React · Next.js · Node.js · MongoDB · Firebase)
+  - real-time monitoring & autonomous decision engines
+  - smart contract security tooling (Groq · Ollama)
 
-currently_reading: "Designing Data-Intensive Applications — Martin Kleppmann"
-next_goal: deploy a multi-agent system with tool-use capabilities to production
-tools_i_ship_with: Git, Docker, Linux, VS Code, Figma, Arduino
+reading: "Designing Data-Intensive Applications" — Kleppmann
+next: multi-agent system with tool-use → production
 approach: ship first, instrument everything, iterate with real feedback
 ```
 
@@ -85,7 +80,7 @@ Conversation intelligence platform with a full RAG pipeline — ingests **191K+ 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" colspan="2" valign="top">
 
 ### 🏙️ Autonomous Civic Intelligence System (ACIS)
 🟡 **In Progress** · Monitoring 25+ zones
@@ -97,44 +92,6 @@ Real-time urban monitoring system covering **25+ Mumbai neighborhoods** — sate
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/santanu949/Autonomous-Civic-Intelligence-System-ACIS-)
 
 </td>
-<td width="50%" valign="top">
-
-### 🔍 Smart Analyzer
-🟢 **Live** · 2 forks
-
-Automated Solidity smart contract auditor — scans contract code for vulnerabilities, generates severity-rated reports with actionable fix suggestions. Supports both **Groq** (cloud) and **Ollama** (local) inference backends for flexible deployment.
-
-**Stack:** `Python` `Groq` `Ollama` `Solidity`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/santanu949/Smart-Analyzer)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚖️ Nyayasetu — Gateway of Justice
-🟡 **In Progress** · Civic-tech initiative
-
-Full-stack application for the **Department of Justice** — streamlining legal access and case management for citizens with a modern, accessible interface. Built to make the justice system navigable for everyone.
-
-**Stack:** `TypeScript` `Next.js` `TailwindCSS`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/santanu949/Nyayasetu-Gateway-of-Justice)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI-Based Resource Sorting Unit
-🟢 **Deployed** · Hardware + software integrated
-
-AI-powered waste classification system — computer vision pipeline for automated material categorization with Arduino hardware integration. Classifies and routes waste in real-time on edge hardware. 2 stars.
-
-**Stack:** `JavaScript` `TensorFlow` `Arduino` `CV`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/santanu949/AI-Based-Resource-Sorting-Unit)
-
-</td>
 </tr>
 </table>
 
@@ -144,13 +101,12 @@ AI-powered waste classification system — computer vision pipeline for automate
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [ADIS](https://github.com/santanu949/Autonomous-Decision-Intelligence-System-ADIS-) | Autonomous decision intelligence system — multi-signal processing and automated response | Python |
+| [Smart Analyzer](https://github.com/santanu949/Smart-Analyzer) | Automated Solidity smart contract auditor — vulnerability scanning with Groq & Ollama backends | Python · Groq · Ollama |
+| [Nyayasetu](https://github.com/santanu949/Nyayasetu-Gateway-of-Justice) | Full-stack legal access platform for the Department of Justice | TypeScript · Next.js |
+| [AI Resource Sorting Unit](https://github.com/santanu949/AI-Based-Resource-Sorting-Unit) | CV-powered waste classification with Arduino hardware integration | JS · TensorFlow · Arduino |
+| [ADIS](https://github.com/santanu949/Autonomous-Decision-Intelligence-System-ADIS-) | Autonomous decision intelligence — multi-signal processing and automated response | Python |
 | [Interactive Note App](https://github.com/santanu949/Interactive-Note-App-using-Next.js) | Real-time note-taking with markdown support, autosave, and responsive design | Next.js · TypeScript |
-| [ISS Tracker](https://github.com/santanu949/ISS-Tracker-Real-Time-Satellite-Tracker) | Real-time satellite tracking with 3D orbital visualization using live data | HTML · JavaScript |
-| [Free Fall Simulator](https://github.com/santanu949/-Free-Fall-Simulator-Experience-Weightlessness) | Interactive weightlessness & orbital physics simulator for space science education | JavaScript |
-| [Language Translation](https://github.com/santanu949/CodeAlpha_LanguageTranslation) | Neural machine translation pipeline (CodeAlpha internship) | Python |
-| [Medical System](https://github.com/santanu949/MEDICAL-SYSTEM) | Healthcare management application with patient workflows | JavaScript |
-| [Smart Waste Bin](https://github.com/santanu949/Smart-Waste-Management-Bin) | Arduino-based smart waste bin with sensor integration (hackathon project) | HTML · Arduino |
+| [ISS Tracker](https://github.com/santanu949/ISS-Tracker-Real-Time-Satellite-Tracker) | Real-time satellite tracking with 3D orbital visualization | HTML · JavaScript |
 
 </details>
 
@@ -224,13 +180,19 @@ AI-powered waste classification system — computer vision pipeline for automate
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=santanu949&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" height="180"/>
+<a href="https://github.com/santanu949">
+  <img src="https://github-readme-stats.vercel.app/api?username=santanu949&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&card_width=400" alt="GitHub Stats" height="180"/>
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanu949&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180"/>
+<a href="https://github.com/santanu949">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanu949&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" alt="Top Languages" height="180"/>
+</a>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=santanu949&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/santanu949">
+  <img src="https://streak-stats.demolab.com?user=santanu949&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -261,9 +223,6 @@ AI-powered waste classification system — computer vision pipeline for automate
 | &nbsp; | Role | What I Built | Period |
 |:---:|---|---|:---:|
 | 🏢 | **Ties — Full-Stack Engineer** | Production verification & recruitment platform (React · Node.js · Firebase). Deployed, maintained, serving real users. Owns the full verification workflow — from admin dashboards to multi-step approval pipelines. | 2025 — Present |
-| 🤖 | **Future Interns — ML Intern** | Sales forecasting with Prophet on retail data. Churn prediction on telecom datasets using SMOTE + ensemble models (Logistic Regression, Random Forest, XGBoost). Delivered production-ready models with documented performance benchmarks. | 2025 |
-| 💻 | **CodeAlpha — Developer Intern** | Neural machine translation system using sequence-to-sequence deep learning pipelines. Built end-to-end training and inference workflows. | 2024 |
-| 🏗️ | **Hackathon — Smart Waste Mgmt** | Arduino-based smart bin with ultrasonic sensors, servo-driven lid, and automated waste classification. Team project — hardware + software integration from prototype to working demo. | 2024 |
 
 ---
 
